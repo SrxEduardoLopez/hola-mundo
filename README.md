@@ -1,5 +1,5 @@
-# hola-mundo
-Mi primer repositorio de prueba
+# hola mundo
+Mi primer repositorio
 
 Autor: Eduardo Lopez
 Fecha: 09-02-22 
